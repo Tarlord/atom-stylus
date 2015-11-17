@@ -1,6 +1,6 @@
 {
   "name": "tarlord-language-stylus",
-  "version": "8.8.2",
+  "version": "8.8.3",
   "private": true,
   "description": "Stylus TextMate bundle converted for Atom",
   "repository": "https://github.com/Tarlord/atom-stylus",
