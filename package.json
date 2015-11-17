@@ -1,6 +1,6 @@
 {
-  "name": "fork-language-stylus",
-  "version": "0.0.1",
+  "name": "tarlord-fork-language-stylus",
+  "version": "0.0.2",
   "private": true,
   "description": "Stylus TextMate bundle converted for Atom",
   "repository": "https://github.com/devongovett/atom-stylus",
