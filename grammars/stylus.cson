@@ -113,7 +113,7 @@
     'name': 'support.constant.font-name.stylus'
   }
   {
-    'match': '\\(^\$.*[\s]+)\\'
+    'match': '(^\$.*[\s])'
     'name': 'support.mixin-name.stylus'
   }
   {
